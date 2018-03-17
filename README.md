@@ -1,4 +1,4 @@
-# Prepaid to Postpaid Migration
+# Predictive Model for Prepaid to Postpaid Migration
 
 # Objective:
   - To increase migration from Prepaid to Postpaid
