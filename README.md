@@ -11,3 +11,7 @@
     - Non Migrator
   - Target = 0
     - Migrator
+
+## Dependent Variables:
+  - Usages (Voice, SMS, Data, VAS)
+  - Demographic
