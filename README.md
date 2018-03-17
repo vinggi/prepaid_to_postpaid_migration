@@ -1,7 +1,13 @@
 # Predictive Model for Prepaid to Postpaid Migration
 
-# Objective:
+## Objective:
   - To increase migration from Prepaid to Postpaid
 
-# Impact on Business
+## Impact on Business
   - Increase in Postpaid Revenue and subscriber base
+  
+## Target Definition:
+  - Target = 1
+    - Non Migrator
+  - Target = 0
+    - Migrator
